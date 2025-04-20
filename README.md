@@ -7,6 +7,6 @@ Por fim, explorar sobre SLA, que garantem níveis específicos de disponibilidad
 
 # review-do-lab Parte 02
 
-No lab sobre tipos de serviço de nuvem na azure, entedemos os conceitos sobre IaaS (Infraestrutura do serviço), PaaS (Plataforma do serviço) e SaaS (Software do serviço). Que são recursos específicos para atender as necessidades da empresa. Como alugar a infraestutura de Ti da Microsoft, fornecimento de plataforma para desenvolvimento e implantações de aplicações, gerencialmento de aplicativos através de software.
+Entendimento sobre os tipos de serviço de nuvem na azure. Os conceitos sobre IaaS (Infraestrutura do serviço), PaaS (Plataforma do serviço) e SaaS (Software do serviço). Que são recursos específicos para atender as necessidades da empresa. Como alugar a infraestutura de Ti da Microsoft, fornecimento de plataforma para desenvolvimento e implantações de aplicações, gerencialmento de aplicativos através de software.
 
 Cada modelo tem responsabilidades diferentes, no IaaS, o usuário é responsável pela maior parte da gestão. No PaaS, é gerenciado os dados e as aplicações, e no SaaS, quase tudo é responsabilidade da Azure
